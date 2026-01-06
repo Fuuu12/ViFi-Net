@@ -7,7 +7,7 @@ We propose Video Frequency Filtering Network (ViFi-Net), including three modules
 <br />
 
 <p align="center">
-    <img src="images/overallnet.png" alt="Logo">
+    <img src="images/fsr.png" alt="Logo">
     <br />
 </p>
 
